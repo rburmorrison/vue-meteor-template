@@ -8,5 +8,9 @@ export default [
     {
         path: '/test',
         component: '/imports/ui/Test.vue'
+    },
+    {
+        path: '*',
+        component: '/imports/ui/NotFound.vue'
     }
 ];
