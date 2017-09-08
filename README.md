@@ -27,3 +27,4 @@
   - akryum:vue-router2
 
 # Notes
+  - Routes should be placed in main.routes.js
